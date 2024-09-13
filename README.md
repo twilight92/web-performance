@@ -7,4 +7,4 @@
   - [x] 분석 툴
 - 크롬 Audit 탭(Lighthouse)
   - [x] [이론](https://github.com/twilight92/web-performance/wiki/02.-%ED%81%AC%EB%A1%AC-Audit-%ED%83%AD(Lighthouse)-%E2%80%90-%EC%8B%A4%EC%8A%B5)
-  - [x] [실습](https://github.com/twilight92/web-performance/wiki/02.-%ED%81%AC%EB%A1%AC-Audit-%ED%83%AD(Lighthouse)-%E2%80%90-%EC%9D%B4%EB%A1%A0)
+  - [x] [실습](https://github.com/twilight92/web-performance/wiki/02.-%ED%81%AC%EB%A1%AC-Audit-%ED%83%AD(Lighthouse)-%E2%80%90-%EC%8B%A4%EC%8A%B5)
