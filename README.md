@@ -12,7 +12,7 @@ npm run server
   - [x] 분석 툴
 - [크롬 Audit 탭 검사](https://github.com/twilight92/web-performance/wiki/02.-%ED%81%AC%EB%A1%AC-Audit-%ED%83%AD(Lighthouse)-%EA%B2%80%EC%82%AC)
 - 이미지 사이즈 최적화
-  - [x] [탐색 및 최적화](https://github.com/twilight92/web-performance/wiki/02.-%ED%81%AC%EB%A1%AC-Audit-%ED%83%AD(Lighthouse)-%E2%80%90-%EC%8B%A4%EC%8A%B5:-Properly-size-images)
+  - [x] [탐색 및 최적화](https://github.com/twilight92/web-performance/wiki/03.-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%82%AC%EC%9D%B4%EC%A6%88-%EC%B5%9C%EC%A0%81%ED%99%94)
 - bottleneck 
   - [x] [탐색](https://github.com/twilight92/web-performance/wiki/04.-bottleneck-%EC%BD%94%EB%93%9C-%ED%83%90%EC%83%89)
   - [x] [최적화](https://github.com/twilight92/web-performance/wiki/05.-bottleneck-%EC%BD%94%EB%93%9C-%EC%B5%9C%EC%A0%81%ED%99%94)
