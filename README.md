@@ -1,4 +1,9 @@
 # web-performance
+실행
+```js
+npm run start
+npm run server
+```
 인프런 웹 성능 최적화 마스터 패키지
 
 - [Intro](https://github.com/twilight92/web-performance/wiki/Intro)
