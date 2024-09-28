@@ -14,4 +14,4 @@ npm run server
   - [x] [이론](https://github.com/twilight92/web-performance/wiki/02.-%ED%81%AC%EB%A1%AC-Audit-%ED%83%AD(Lighthouse)-%E2%80%90-%EC%9D%B4%EB%A1%A0)
   - [x] [실습](https://github.com/twilight92/web-performance/wiki/02.-%ED%81%AC%EB%A1%AC-Audit-%ED%83%AD(Lighthouse)-%E2%80%90-%EC%8B%A4%EC%8A%B5:-Properly-size-images)
 - 크롬 Performance 탭
-  - [x] [실습](https://github.com/twilight92/web-performance/wiki/02.-%ED%81%AC%EB%A1%AC-Performance-%ED%83%AD-%E2%80%90-%EC%8B%A4%EC%8A%B5:-Minimize-main%E2%80%90thread-work)
+  - [x] [이론](https://github.com/twilight92/web-performance/wiki/02.-%ED%81%AC%EB%A1%AC-Performance-%ED%83%AD-%E2%80%90-%EC%9D%B4%EB%A1%A0)
