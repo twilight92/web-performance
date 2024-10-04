@@ -1,8 +1,10 @@
-import React from "react";
+import React, { Suspense, lazy } from "react";
 import { Switch, Route } from "react-router-dom";
 import "./App.css";
-import ListPage from "./pages/ListPage/index";
-import ViewPage from "./pages/ViewPage/index";
+// import ListPage from "./pages/ListPage/index";
+// import ViewPage from "./pages/ViewPage/index";
+
+const ListPage = lazy(() => import("./pages/ListPage/index"));
 
 function App() {
   return (
