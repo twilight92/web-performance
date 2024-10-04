@@ -5,14 +5,17 @@ import "./App.css";
 // import ViewPage from "./pages/ViewPage/index";
 
 const ListPage = lazy(() => import("./pages/ListPage/index"));
+const ViewPage = lazy(() => import("./pages/ViewPage/index"));
 
 function App() {
   return (
     <div className="App">
-      <Switch>
-        <Route path="/" component={ListPage} exact />
-        <Route path="/view/:id" component={ViewPage} exact />
-      </Switch>
+      <Suspense fallback={<div>Loading...</div>}>
+        <Switch>
+          <Route path="/" component={ListPage} exact />
+          <Route path="/view/:id" component={ViewPage} exact />
+        </Switch>
+      </Suspense>
     </div>
   );
 }
